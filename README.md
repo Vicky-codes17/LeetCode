@@ -3,7 +3,7 @@
 Welcome to my LeetCode solutions repository! I’ll be updating this regularly as I solve more problems from LeetCode. 🎯
 
 ## 👤 Profile
-**Username:** techie_viki
+**Username:** [techie_viki](https://leetcode.com/techie_viki)
 
 ## 📁 Solution Format
 
