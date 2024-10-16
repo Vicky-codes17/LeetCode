@@ -1,37 +1,28 @@
-🧑‍💻 LeetCode Solution Repository
+# 🧑‍💻 LeetCode Solution Repository
 
 Welcome to my LeetCode solutions repository! I’ll be updating this regularly as I solve more problems from LeetCode. 🎯
 
-👤 Profile
+## 👤 Profile
+**Username:** techie_viki
 
-Username: techie_viki
+## 📁 Solution Format
 
-📁 Solution Format
-
-This repository contains the following languages 
-🔹PYTHON
-🔹JAVA
-🔹C 
+This repository contains solutions written in the following languages:
+- 🔹 PYTHON
+- 🔹 JAVA
+- 🔹 C
 
 Solutions are categorized by difficulty level:
+- 🟢 Easy
+- 🟡 Medium
+- 🔴 Hard
 
-🟢 Easy
-
-🟡 Medium
-
-🔴 Hard
-
-
-
-🚀 How to Use
+## 🚀 How to Use
 
 You can use this repository as a reference to guide you in your own LeetCode journey. Feel free to:
+- ⭐ Fork this repository
+- 🔄 Modify the solutions to fit your style or practice further
 
-⭐ Fork this repository
+## 🙏 Acknowledgments
 
-🔄 Modify the solutions to fit your style or practice further
-
-
-🙏 Acknowledgments
-
-A huge thanks to LeetCode for providing an awesome platform to practice and improve coding skills! 💡
+A huge thanks to **LeetCode** for providing an awesome platform to practice and improve coding skills! 💡
