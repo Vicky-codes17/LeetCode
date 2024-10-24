@@ -8,14 +8,14 @@ Welcome to my LeetCode solutions repository! I’ll be updating this regularly a
 ## 📁 Solution Format
 
 This repository contains solutions written in the following languages:
-- 🔹 PYTHON
-- 🔹 JAVA
-- 🔹 C
+🔹 PYTHON
+🔹 JAVA
+🔹 C
 
 Solutions are categorized by difficulty level:
-- 🟢 Easy
-- 🟡 Medium
-- 🔴 Hard
+ 🟢 Easy
+ 🟡 Medium
+ 🔴 Hard
 
 ## 🚀 How to Use
 
