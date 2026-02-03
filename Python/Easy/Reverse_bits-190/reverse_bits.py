@@ -7,6 +7,3 @@ class Solution:
             n = n >> 1
         return c
 # print(Solution().reverse_bit(43261596))
-      
-            
- 
