@@ -4,5 +4,5 @@ class Solution:
             return True
         else:
             return False
-Solution().isPowerOfTwo(16)
+print(Solution().isPowerOfTwo(16))
         
